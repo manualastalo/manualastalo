@@ -4238,6 +4238,9 @@ fieldset:disabled .btn {
 .nav-link:focus {
   color: #cca000;
 }
+.nav-link:active {
+  color: #cca000;
+}
 .nav-link.disabled {
   color: #6c757d;
   pointer-events: none;
@@ -4266,7 +4269,7 @@ fieldset:disabled .btn {
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #fff;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -11762,7 +11765,7 @@ p {
 }
 #mainNav .navbar-nav .nav-item .nav-link.active,
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: grey;
+  color: #ffc800;
 }
 
 @media (min-width: 992px) {
