@@ -4365,7 +4365,7 @@ fieldset:disabled .btn {
 }
 
 .navbar-inner {
-  background:transparent;
+  background: transparent;
 }
 
 .navbar-collapse {
@@ -11938,6 +11938,13 @@ header.masthead .masthead-heading {
 .portfolio-modal .modal-content .h2 {
   font-size: 3rem;
   line-height: 3rem;
+}
+
+@media (max-width: 764px) {
+  .portfolio-modal .modal-content h2,
+  .portfolio-modal .modal-content .h2 {
+    font-size: 1.8rem;
+  }
 }
 .portfolio-modal .modal-content p.item-intro {
   font-style: italic;
