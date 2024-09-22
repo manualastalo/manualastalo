@@ -1,0 +1,75 @@
+{
+  "portfolioItems": [
+    {
+      "id": 1,
+      "title": "Puupoltto- ja muita töitä",
+      "subtitle": "",
+      "imageSrc": "assets/img/portfolio/puu5resized.jpg",
+      "modalContent": {
+        "images": [
+          {
+            "src": "assets/img/portfolio/puu1resized.jpg",
+            "alt": "...",
+            "description": ""
+          },
+          {
+            "src": "assets/img/portfolio/puu2resized.jpg",
+            "alt": "...",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Kuvan rakentaminen",
+      "subtitle": "Asetelmasta piirtäminen hiilellä",
+      "imageSrc": "assets/img/portfolio/ko8resized.jpg",
+      "modalContent": {
+        "images": [
+          {
+            "src": "assets/img/portfolio/hiili1resized.jpg",
+            "alt": "...",
+            "description": "Aluksi harjoittelimme Croques piirtämistä toisistamme. Käytin sen tekemiseen hiiltä ja ruskoliitua."
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Surrealismi puuvärityö",
+      "subtitle": "",
+      "imageSrc": "assets/img/portfolio/ko2resized.jpg",
+      "modalContent": {
+        "images": []
+      }
+    },
+    {
+      "id": 4,
+      "title": "Väri",
+      "subtitle": "",
+      "imageSrc": "assets/img/portfolio/ko5resized.jpg",
+      "modalContent": {
+        "images": []
+      }
+    },
+    {
+      "id": 5,
+      "title": "Taidehistoriallinen akryylimaalaus",
+      "subtitle": "",
+      "imageSrc": "assets/img/portfolio/ko3resized.jpg",
+      "modalContent": {
+        "images": []
+      }
+    },
+    {
+      "id": 36,
+      "title": "Sarjakuva",
+      "subtitle": "",
+      "imageSrc": "assets/img/portfolio/8resized.jpg",
+      "modalContent": {
+        "images": []
+      }
+    }
+  ]
+}
